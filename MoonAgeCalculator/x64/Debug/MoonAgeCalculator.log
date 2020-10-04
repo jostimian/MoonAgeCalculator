@@ -1,3 +1,3 @@
 ﻿  MoonAgeCalculator.cpp
-C:\Users\josti\OneDrive\Documents\Visual Studio 2019\Projects\MoonAgeCalculator\MoonAgeCalculator\MoonAgeCalculator.cpp(10,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\josti\OneDrive\Documents\Visual Studio 2019\Projects\MoonAgeCalculator\MoonAgeCalculator\MoonAgeCalculator.cpp(11,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   MoonAgeCalculator.vcxproj -> C:\Users\josti\OneDrive\Documents\Visual Studio 2019\Projects\MoonAgeCalculator\x64\Debug\MoonAgeCalculator.exe
